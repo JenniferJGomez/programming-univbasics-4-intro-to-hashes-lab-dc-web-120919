@@ -25,5 +25,4 @@ end
 
 def updating_counting_hash(hash, key)
   hash = {key =>}
-  hash[key]+=1 
 end 
