@@ -24,5 +24,5 @@ def read_from_hash(hash, key)
 end
 
 def updating_counting_hash(hash, key)
-  hash = {key =>}
+  
 end 
